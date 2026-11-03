@@ -1,0 +1,8 @@
+PORTAFOLIO DE MIGUEL ÁNGEL GARCÍA - VERSIÓN PUBLICADA
+
+- Videos recomprimidos a MP4 720p: de 179 MB a 21 MB en total.
+  (Escenario 73 MB -> 13,5 MB, Rana 91 MB -> 3,5 MB, Camaleón 15 MB -> 3,6 MB)
+- Las tarjetas de Proyectos usan un clip corto de 6 segundos; el video completo se ve al abrir el proyecto.
+- Casa hongo pasó de PNG (3,3 MB) a JPG (190 KB).
+- Se corrigieron las imágenes de portada de los videos (tenían doble extensión .jpg.jpeg).
+- Se quitó el botón "Descargar modelo .BLEND" porque el archivo no venía en la carpeta.
